@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/composables/usegame.ts","./src/types/game.ts","./src/app.vue","./src/components/gameboard.vue","./src/components/gamecard.vue","./src/components/helloworld.vue"],"version":"5.7.2"}

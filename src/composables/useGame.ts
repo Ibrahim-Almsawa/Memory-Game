@@ -1,4 +1,4 @@
-import { ref, computed, watch } from 'vue';
+import { ref, computed } from 'vue';
 import type { GameState, Card, Score, Difficulty } from '../types/game';
 import { useStorage, useIntervalFn } from '@vueuse/core';
 
